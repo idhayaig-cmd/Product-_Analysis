@@ -1,4 +1,4 @@
-**PRODUCT INNOVATION HUB**
+Product Innovation Hub
 
 Making a report different types of Product.
 
