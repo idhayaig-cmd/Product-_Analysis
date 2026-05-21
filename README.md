@@ -1,17 +1,16 @@
-# Project Title
+PRODUCT INNOVATION HUB
 
-Simple overview of use/purpose.
+Making a report different types of Product.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this project i was used product data set.In that Excel how to calculate all functions and Text string apply in every situation.I will get proper visualization of table.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Microsoft Excel 2024
 
 ### Installing
 
