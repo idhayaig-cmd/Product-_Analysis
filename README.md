@@ -1,5 +1,5 @@
 Product Innovation Hub
-Author :Idaya Gracy Jude
+
 My DATASET: Product ID, Product Name, Brand Name, Price, Quantity, Category, Total Price, Price Range, Day, Country Code, Month.
 
 ## Description Summary
@@ -12,6 +12,10 @@ Analyses calculate of total product price,Prince Range,Day,Country Code and Mont
 ### Dependencies
 
 * Microsoft Excel 2024.
+
+### Author 
+
+Idaya Gracy Jude
 
 ## License
 
