@@ -1,4 +1,4 @@
-Product Innovation Hub
+PRODUCT INNOVATION HUB
 
 My DATASET: Product ID, Product Name, Brand Name, Price, Quantity, Category, Total Price, Price Range, Day, Country Code, Month.
 
